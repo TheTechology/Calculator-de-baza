@@ -1,4 +1,4 @@
-# Calculator de baza! [Screenshot (1228)](https://user-images.githubusercontent.com/100486080/192078724-88489752-2306-4d87-9c15-a71ba2271747.png)
+# Calculator de baza![Screenshot (1228)](https://user-images.githubusercontent.com/100486080/192078724-88489752-2306-4d87-9c15-a71ba2271747.png)
 
 
 
@@ -23,6 +23,6 @@
 
 <div align="center">
 
-## © 2022 TheTechology - MARIAN DUMITRU & POPA DANIEL,ɪɴᴄ. ᴀʟʟ ʀɪɢʜᴛꜱ ʀᴇꜱᴇʀᴠᴇᴅ.
+## © 2022 TheTechology - MARIAN DUMITRU & POPA DANIEL,ɪɴᴄ. ᴀʟʟ ʀɪɢʜᴛꜱ ʀᴇꜱᴇʀᴠᴇᴅ. 
 
 </div>
